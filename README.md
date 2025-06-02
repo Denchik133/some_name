@@ -1,2 +1,1 @@
-/my-git-practicet
 TripaTropa
